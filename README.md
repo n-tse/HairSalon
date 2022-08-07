@@ -1,4 +1,4 @@
-# Pierre's Bakery - Order Tracker
+# Eau Claire's Hair Salon - Stylists and Client Tracker
 
 #### By: Nick Tse
 
